@@ -11,6 +11,15 @@ not have to ship inside the app and cannot disappear if Google changes its catal
 Every font keeps its own licence (mostly the SIL Open Font License 1.1) and is credited to its
 authors in its own folder. Source: https://github.com/google/fonts
 
+## Mirrors
+
+The same repository, byte for byte, is published in two places. The app tries GitHub first and
+falls back to GitLab. Every file is checked against the SHA-256 in `index.json` whichever mirror
+served it.
+
+- https://github.com/slaviboy/FreeFonts (primary)
+- https://gitlab.com/slaviboy/FreeFonts (backup)
+
 ## Contents
 
 The 400 most popular families of Google Fonts (by Google's own popularity ranking) that have a
