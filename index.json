@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "fonts": [
+    {
+      "family": "Lora",
+      "folder": "lora",
+      "category": "serif",
+      "license": "OFL",
+      "licenseFile": "OFL.txt",
+      "files": [
+        { "file": "Lora[wght].ttf", "style": "normal", "weight": 400, "variable": true, "weightMin": 400, "weightMax": 700, "bytes": 212196, "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7" },
+        { "file": "Lora-Italic[wght].ttf", "style": "italic", "weight": 400, "variable": true, "weightMin": 400, "weightMax": 700, "bytes": 221232, "sha256": "22d8d8854b53807aa664ca34f2031a9ed57a1d0dea296b8b96cdd3aad937a2b3" }
+      ]
+    }
+  ]
+}
