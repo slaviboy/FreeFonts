@@ -16163,5 +16163,10 @@
    ],
    "licenseFile": "OFL.txt"
   }
- ]
+ ],
+ "previews": {
+  "file": "previews/b6fe0dc48faa.json",
+  "bytes": 1259081,
+  "sha256": "b6fe0dc48faa3dfc382ee7047867969ea33463e063353420be765d717214564f"
+ }
 }
