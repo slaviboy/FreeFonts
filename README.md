@@ -10,3 +10,10 @@ not have to ship inside the app and cannot disappear if Google changes its catal
 
 Every font keeps its own licence (mostly the SIL Open Font License 1.1) and is credited to its
 authors in its own folder. Source: https://github.com/google/fonts
+
+## Contents
+
+The 400 most popular families of Google Fonts (by Google's own popularity ranking) that have a
+licence file and are not CJK-only, as full `.ttf` files (mostly variable fonts). More families can be
+added with the scripts in the maintainer's `FreeFonts-bulk` folder: `download-fonts.mjs` fetches them
+from google/fonts and `build-index.mjs` rebuilds `index.json`.
